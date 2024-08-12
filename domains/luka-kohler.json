@@ -1,0 +1,12 @@
+{
+    "description": "my personal website (luka)",
+    "repo": "https://github.com/holderbusch/MyWebsite",
+    "owner": {
+        "username": "holderbusch",
+        "email": "luka-kohler@outlook.de",
+        "twitter": "AnimationsBrot"
+    },
+    "record": {
+        "CNAME": "holderbusch.github.io"
+    }
+} 
